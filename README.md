@@ -1,2 +1,1 @@
-# EmotionDetector
-IBM Watson NLU
+# Repository for final project

@@ -1,0 +1,4 @@
+# Add Watson NLP library and other dependencies here
+ibm-watson-developer-cloud
+flask  
+# Add any additional libraries for formatting or testing
