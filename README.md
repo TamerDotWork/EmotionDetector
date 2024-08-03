@@ -1,0 +1,2 @@
+# EmotionDetector
+IBM Watson NLU
