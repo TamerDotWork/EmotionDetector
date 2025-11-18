@@ -1,5 +1,4 @@
 ## Emotion Detector
-```markdown
 # Emotion Detector
 
 Detect emotions in text using IBM Watson NLU or other NLP models.
@@ -17,5 +16,3 @@ pip install -r requirements.txt
 python app.py
 ```
 
-
-```
