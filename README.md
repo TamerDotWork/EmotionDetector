@@ -1,5 +1,4 @@
-## Emotion Detector
-# Emotion Detector
+# motion Detector
 
 Detect emotions in text using IBM Watson NLU or other NLP models.
 
@@ -15,4 +14,5 @@ cd EmotionDetector
 pip install -r requirements.txt
 python app.py
 ```
+
 
