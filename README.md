@@ -15,4 +15,5 @@ git clone https://github.com/TamerDotWork/EmotionDetector.git
 cd EmotionDetector
 pip install -r requirements.txt
 python app.py
+'''
 
