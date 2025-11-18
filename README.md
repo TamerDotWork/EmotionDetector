@@ -10,10 +10,11 @@ Detect emotions in text using IBM Watson NLU or other NLP models.
 - Useful for chatbots and sentiment analysis
 
 ## Getting Started
-'''bash
+```bash
 git clone https://github.com/TamerDotWork/EmotionDetector.git
 cd EmotionDetector
 pip install -r requirements.txt
 python app.py
-'''
+```
+
 
